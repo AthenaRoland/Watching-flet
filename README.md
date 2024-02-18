@@ -1,7 +1,7 @@
 # Watching
 A application with python and flet，用python flet框架编写的基于lofter的图片软件，支持下载，登录...
 <h1>使用方法</h1>
-
+<h1>现已提供可运行程序--2024.2.18</h1>
 <h1>如果你使用Windows系统，那么请下载watching-for-windows源代码</h1>
 确保你本地已经安装好了python>=3.8
 打开终端运行pip install -r requirements.txt
